@@ -1,0 +1,53 @@
+CORROSHIELD
+8mm
+Ac
+1
+Ac
+DRAWING TYPE :
+DIMENSIONAL
+ENGINEERING EDGE (SINGAPORE) PTE LTD, ENGINEERING DEPARTMENT
+Diameter :
+Drawing No :
+AC05002 N/A
+Unit of Measure :
+Standard : mm
+AS 3566.1, MODIFIED
+Description :
+8MM X 45MM, HEXAGONAL MAGNETIC SOCKET
+Client :
+ASONS ENTERPRISE
+Customer Approval:
+Name:
+Date:
+Company Stamp / Signature:
+L Af1
+SCALE : NOT TO SCALE
+Material AISI - 6150
+Af
+Surface Treatment Sand Blasted
+Approved By Ben Hau
+Approved Date 01 / 07 / 2021
+LENGTH ( L )
+TOLERANCE
+Drawn By Kee Keong Meng
+45.00 ± 1.00
+Drawn Date 01 / 07 / 2021
+Drawing Version 1
+BIT DIMENSIONS
+Production Code MODIFIED
+UNITS RANGE / TOLERANCE UNITS RANGE / TOLERANCE
+8.05 ~ 8.25
+Af
+9.20 ~ 9.40
+Ac
+Af1
+6.20 ~ 6.40
+Ac1
+7.00 ~ 7.20
+ENGINEERING EDGE (SINGAPORE) PTE LTD
+31 WOODLANDS CLOSE, #08-01 WOODLANDS HORIZON
+SINGAPORE 737855
+T: +65 6552 4680 F: +65 6552 7554
+www.engineering-edge.com
+info@engineering-edge.com
+
