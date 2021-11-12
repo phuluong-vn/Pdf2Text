@@ -11,7 +11,7 @@
     <div>
     <asp:FileUpload ID="flUploadPdf" runat="server" />
     <br />
-    <asp:Button ID="btnUpload" runat="server" OnClick="btnUpload_Click" Text="Upload" />
+    <%--<asp:Button ID="btnUpload" runat="server" OnClick="btnUpload_Click" Text="Upload" />
     <br />
     <br />
     <asp:Button ID="btnCovert" runat="server" OnClick="btnCovert_Click" Text="Convert" />
@@ -19,11 +19,11 @@
     <br />
     <asp:Button ID="btnAddtext" runat="server" OnClick="btnAddtext1_Click" Text="Addtext 1" />
         <br />
-    <br />
+    <br />--%>
     <asp:Button ID="btnAddtexttwo" runat="server" OnClick="btnAddtext2_Click" Text="Addtext 2" />
          <br />
-    <asp:Button ID="Button1" runat="server" OnClick="btnAddtext3_Click" Text="Addtext 3" />
-    </div>
+    <%--<asp:Button ID="Button1" runat="server" OnClick="btnAddtext3_Click" Text="Addtext 3" />
+    </div>--%>
     </form>
 </body>
 </html>
